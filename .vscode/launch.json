@@ -1,0 +1,1064 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "palindromestr",
+            "request": "launch",
+            "mainClass": "Strings.palindromestr",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Stringss",
+            "request": "launch",
+            "mainClass": "Strings.Stringss",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Heaprev$Heap",
+            "request": "launch",
+            "mainClass": "Heaps.Heaprev$Heap",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Binarytree",
+            "request": "launch",
+            "mainClass": "Endsem.Binarytree",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "stackusingtwoqueues",
+            "request": "launch",
+            "mainClass": "Queues.stackusingtwoqueues",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "qusing2stack",
+            "request": "launch",
+            "mainClass": "Queues.qusing2stack",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "duplicateparenthesis",
+            "request": "launch",
+            "mainClass": "Stacks.duplicateparenthesis",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "validparenthesis",
+            "request": "launch",
+            "mainClass": "Stacks.validparenthesis",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "searchingandsortingrev",
+            "request": "launch",
+            "mainClass": "Endsem.searchingandsortingrev",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "noofsubarrayssumequaltoK",
+            "request": "launch",
+            "mainClass": "Hashing.Sets.noofsubarrayssumequaltoK",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "largestsumequaltozero",
+            "request": "launch",
+            "mainClass": "Hashing.Sets.largestsumequaltozero",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Itenerarytickets",
+            "request": "launch",
+            "mainClass": "Hashing.Sets.Itenerarytickets",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "UnionandIntersection",
+            "request": "launch",
+            "mainClass": "Hashing.Sets.UnionandIntersection",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "CountDistinctElements",
+            "request": "launch",
+            "mainClass": "Hashing.Sets.CountDistinctElements",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "Hashing.Sets.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "HashSets",
+            "request": "launch",
+            "mainClass": "Hashing.Sets.HashSets",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "validanagram",
+            "request": "launch",
+            "mainClass": "Hashing.validanagram",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "majorityele",
+            "request": "launch",
+            "mainClass": "Hashing.majorityele",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom4linkedhashmap",
+            "request": "launch",
+            "mainClass": "Hashing.Classroom4linkedhashmap",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "infixtopostfix",
+            "request": "launch",
+            "mainClass": "Stacks.infixtopostfix",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeprac",
+            "request": "launch",
+            "mainClass": "BinaryTP1.BinaryTreeprac",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "qusing2stacks",
+            "request": "launch",
+            "mainClass": "Queues.qusing2stacks",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "mergeandquickrev",
+            "request": "launch",
+            "mainClass": "Array.Sortings.mergeandquickrev",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Sortingrev",
+            "request": "launch",
+            "mainClass": "Array.Sortings.Sortingrev",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom2",
+            "request": "launch",
+            "mainClass": "Hashing.Classroom2",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "NearbyCars",
+            "request": "launch",
+            "mainClass": "Heaps.NearbyCars",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom2",
+            "request": "launch",
+            "mainClass": "Heaps.Classroom2",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom1",
+            "request": "launch",
+            "mainClass": "Heaps.Classroom1",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "Heaps.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroommerge",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BinarySearchTreepart2.Classroommerge",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom1",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BinarySearchTreepart2.Classroom1",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BinarySearchTreepart2.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArraysCC",
+            "request": "launch",
+            "mainClass": "Array.ArraysCC",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "ArraysCC1",
+            "request": "launch",
+            "mainClass": "Array.ArraysCC1",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Resort",
+            "request": "launch",
+            "mainClass": "Array.Resort",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Searching",
+            "request": "launch",
+            "mainClass": "Array.Searching",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Prac",
+            "request": "launch",
+            "mainClass": "Array.Sortings.Prac",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "SolutionA",
+            "request": "launch",
+            "mainClass": "Array.Sortings.SolutionA",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "Array.Sortings.mergesort",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "pracsort",
+            "request": "launch",
+            "mainClass": "Array.Sortings.pracsort",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "quicksort",
+            "request": "launch",
+            "mainClass": "Array.Sortings.quicksort",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "Array.Sortings.sort",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "sortt",
+            "request": "launch",
+            "mainClass": "Array.Sortings.sortt",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "arrasarg",
+            "request": "launch",
+            "mainClass": "Array.arrasarg",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "binarys",
+            "request": "launch",
+            "mainClass": "Array.binarys",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "operationsonarray",
+            "request": "launch",
+            "mainClass": "Array.operationsonarray",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "pairsarr",
+            "request": "launch",
+            "mainClass": "Array.pairsarr",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "reversearr",
+            "request": "launch",
+            "mainClass": "Array.reversearr",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "stock",
+            "request": "launch",
+            "mainClass": "Array.stock",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "trappingrainwater",
+            "request": "launch",
+            "mainClass": "Array.trappingrainwater",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Matrics",
+            "request": "launch",
+            "mainClass": "Array.twoDarrays.Matrics",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "questions2d",
+            "request": "launch",
+            "mainClass": "Array.twoDarrays.questions2d",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "ArrayList.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom2",
+            "request": "launch",
+            "mainClass": "ArrayList.Classroom2",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom3",
+            "request": "launch",
+            "mainClass": "ArrayList.Classroom3",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom4",
+            "request": "launch",
+            "mainClass": "ArrayList.Classroom4",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "multidim",
+            "request": "launch",
+            "mainClass": "ArrayList.multidim",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BST",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "hw",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.hw",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeC",
+            "request": "launch",
+            "mainClass": "BinaryTP1.BinaryTreeC",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreesB",
+            "request": "launch",
+            "mainClass": "BinaryTP1.BinaryTreesB",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom(1)",
+            "request": "launch",
+            "mainClass": "BinaryTP1.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "hwroom",
+            "request": "launch",
+            "mainClass": "BinaryTP1.hwroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom(2)",
+            "request": "launch",
+            "mainClass": "BinaryTP2.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom(3)",
+            "request": "launch",
+            "mainClass": "BinaryTP3.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom(4)",
+            "request": "launch",
+            "mainClass": "Hashing.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "HashMapCode",
+            "request": "launch",
+            "mainClass": "Hashing.HashMapCode",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom(5)",
+            "request": "launch",
+            "mainClass": "Linkedlistt.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLL",
+            "request": "launch",
+            "mainClass": "Linkedlistt.DoubleLL",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Linkedlistt.Linkedlist",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlistprac",
+            "request": "launch",
+            "mainClass": "Linkedlistt.Linkedlistprac",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "linklist",
+            "request": "launch",
+            "mainClass": "Linkedlistt.linklist",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "OOps1",
+            "request": "launch",
+            "mainClass": "OOPS.OOps1",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Oops",
+            "request": "launch",
+            "mainClass": "OOPS.Oops",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "OOPS.main",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "sup",
+            "request": "launch",
+            "mainClass": "OOPS.sup",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "CircularQueuearray",
+            "request": "launch",
+            "mainClass": "Queues.CircularQueuearray",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom(6)",
+            "request": "launch",
+            "mainClass": "Queues.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroomq5",
+            "request": "launch",
+            "mainClass": "Queues.Classroomq5",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroomq6",
+            "request": "launch",
+            "mainClass": "Queues.Classroomq6",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom(7)",
+            "request": "launch",
+            "mainClass": "Queues.Deque.Classroom",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Classroom2(1)",
+            "request": "launch",
+            "mainClass": "Queues.Deque.Classroom2",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "QueueB",
+            "request": "launch",
+            "mainClass": "Queues.QueueB",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "QueueJCF",
+            "request": "launch",
+            "mainClass": "Queues.QueueJCF",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Queuell",
+            "request": "launch",
+            "mainClass": "Queues.Queuell",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Queueusing2Stacks",
+            "request": "launch",
+            "mainClass": "Queues.Queueusing2Stacks",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Queueusing2StacksB",
+            "request": "launch",
+            "mainClass": "Queues.Queueusing2StacksB",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Stackusing2Queues",
+            "request": "launch",
+            "mainClass": "Queues.Stackusing2Queues",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Recursionbasics",
+            "request": "launch",
+            "mainClass": "Recursion.Recursionbasics",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "StackB",
+            "request": "launch",
+            "mainClass": "Stacks.StackB",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "StackC$Stack",
+            "request": "launch",
+            "mainClass": "Stacks.StackC$Stack",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "StackD",
+            "request": "launch",
+            "mainClass": "Stacks.StackD",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "StackE",
+            "request": "launch",
+            "mainClass": "Stacks.StackE",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "StackJcf",
+            "request": "launch",
+            "mainClass": "Stacks.StackJcf",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "stacksarray",
+            "request": "launch",
+            "mainClass": "Stacks.stacksarray",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "BtoD_DtoB",
+            "request": "launch",
+            "mainClass": "functions.BtoD_DtoB",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "binomialcoeff",
+            "request": "launch",
+            "mainClass": "functions.binomialcoeff",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "factofun",
+            "request": "launch",
+            "mainClass": "functions.factofun",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "fun1",
+            "request": "launch",
+            "mainClass": "functions.fun1",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "fun2",
+            "request": "launch",
+            "mainClass": "functions.fun2",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "fun3",
+            "request": "launch",
+            "mainClass": "functions.fun3",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "functionsquestions",
+            "request": "launch",
+            "mainClass": "functions.functionsquestions",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "mathclass",
+            "request": "launch",
+            "mainClass": "functions.mathclass",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "overload",
+            "request": "launch",
+            "mainClass": "functions.overload",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "profun",
+            "request": "launch",
+            "mainClass": "functions.profun",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasics",
+            "request": "launch",
+            "mainClass": "javabasics.JavaBasics",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasicsdatatypes",
+            "request": "launch",
+            "mainClass": "javabasics.JavaBasicsdatatypes",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasicsvariable",
+            "request": "launch",
+            "mainClass": "javabasics.JavaBasicsvariable",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "javabasics.a",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "ageelseif",
+            "request": "launch",
+            "mainClass": "javabasics.ageelseif",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "areaofcircle",
+            "request": "launch",
+            "mainClass": "javabasics.areaofcircle",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "arithmeticop",
+            "request": "launch",
+            "mainClass": "javabasics.arithmeticop",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "arithmeticunary",
+            "request": "launch",
+            "mainClass": "javabasics.arithmeticunary",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "cal",
+            "request": "launch",
+            "mainClass": "javabasics.cal",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "comment",
+            "request": "launch",
+            "mainClass": "javabasics.comment",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "explicit",
+            "request": "launch",
+            "mainClass": "javabasics.explicit",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "ifevenodd",
+            "request": "launch",
+            "mainClass": "javabasics.ifevenodd",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "incometaxcal",
+            "request": "launch",
+            "mainClass": "javabasics.incometaxcal",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "javabasics.input",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "inputsumandproductab",
+            "request": "launch",
+            "mainClass": "javabasics.inputsumandproductab",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "javabasics.largest",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "largestofthreenum",
+            "request": "launch",
+            "mainClass": "javabasics.largestofthreenum",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "printpattern",
+            "request": "launch",
+            "mainClass": "javabasics.printpattern",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "switchs",
+            "request": "launch",
+            "mainClass": "javabasics.switchs",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "ternaryopt",
+            "request": "launch",
+            "mainClass": "javabasics.ternaryopt",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "typecasting",
+            "request": "launch",
+            "mainClass": "javabasics.typecasting",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "Q1break",
+            "request": "launch",
+            "mainClass": "loops.Q1break",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "breakk",
+            "request": "launch",
+            "mainClass": "loops.breakk",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "continues",
+            "request": "launch",
+            "mainClass": "loops.continues",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "loops.dowhile",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "forl",
+            "request": "launch",
+            "mainClass": "loops.forl",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "primenum",
+            "request": "launch",
+            "mainClass": "loops.primenum",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "printn",
+            "request": "launch",
+            "mainClass": "loops.printn",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "printnn",
+            "request": "launch",
+            "mainClass": "loops.printnn",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "printnum1ton",
+            "request": "launch",
+            "mainClass": "loops.printnum1ton",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "printrev",
+            "request": "launch",
+            "mainClass": "loops.printrev",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "printsumofn",
+            "request": "launch",
+            "mainClass": "loops.printsumofn",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "qcontinur",
+            "request": "launch",
+            "mainClass": "loops.qcontinur",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "revgiv",
+            "request": "launch",
+            "mainClass": "loops.revgiv",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "squarep",
+            "request": "launch",
+            "mainClass": "loops.squarep",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "whilel",
+            "request": "launch",
+            "mainClass": "loops.whilel",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "abst",
+            "request": "launch",
+            "mainClass": "printstarpattern.abst",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "bonusclass",
+            "request": "launch",
+            "mainClass": "printstarpattern.bonusclass",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "inte",
+            "request": "launch",
+            "mainClass": "printstarpattern.inte",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "printstarpattern.p1",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "printstarpattern.p2",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "printstarpattern.p3",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "printstarpattern.p4",
+            "projectName": "Java programming basics_cc85c4db"
+        },
+        {
+            "type": "java",
+            "name": "printpatterns",
+            "request": "launch",
+            "mainClass": "printstarpattern.printpatterns",
+            "projectName": "Java programming basics_cc85c4db"
+        }
+    ]
+}
